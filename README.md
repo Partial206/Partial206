@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Partial
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning Java,Python and Lua
+- 📫 How to reach me :
+  - Discord : .partial.
